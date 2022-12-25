@@ -2,9 +2,9 @@
   "name": "Alphabot-api",
   "version": "1.0.0",
   "description": "res api website",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node main.js",
     "test": "start"
   },
   "repository": {
